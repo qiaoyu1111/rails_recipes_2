@@ -44,6 +44,7 @@ gem "rails-i18n"
 gem "devise-i18n"
 gem "select2-rails"
 gem "awesome_rails_console"
+gem "nested_form_fields"
 
 group :development, :test do
   gem 'rspec-rails'
