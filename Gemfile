@@ -45,6 +45,7 @@ gem "devise-i18n"
 gem "select2-rails"
 gem "awesome_rails_console"
 gem "nested_form_fields"
+gem 'bootstrap-datepicker-rails'
 
 group :development, :test do
   gem 'rspec-rails'
