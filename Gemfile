@@ -48,6 +48,7 @@ gem "nested_form_fields"
 gem 'bootstrap-datepicker-rails'
 gem 'ckeditor'
 gem 'kaminari'
+gem 'ransack'
 
 group :development, :test do
   gem 'rspec-rails'
