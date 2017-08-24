@@ -1,7 +1,7 @@
 class EventsController < ApplicationController
 
   def index
-    @events = Event.only_public.rank(:row_order).all
+    @events = Event.only_public.all
   end
 
   def show
